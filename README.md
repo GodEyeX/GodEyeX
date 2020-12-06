@@ -1,4 +1,4 @@
-# Hello!, I'm <a href="https://www.techdro.id/">Sammy</a>.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hello!, I'm <a href="https://t.me/miDarkWeb.id/">Sammy</a>.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ![Header](https://telegra.ph/file/e6b435315d11f2916223b.jpg)
 
