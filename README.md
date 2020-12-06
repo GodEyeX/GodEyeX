@@ -1,5 +1,5 @@
 ### Hello I Am 👇 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-[![telegram badge](https://img.shields.io/badge/Contact Sammy-30302f?style=flat&logo=telegram)](https://t.me/MiDarkWeb)<p align="left"> <img src="https://komarev.com/ghpvc/?username=IntelligentSammy&label=Views&color=blue&style=plastic" alt="xditya" /> </p>![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/IntelligentSammy/)
+[![telegram badge](https://img.shields.io/badge/ContactSammy-30302f?style=flat&logo=telegram)](https://t.me/MiDarkWeb)<p align="left"> <img src="https://komarev.com/ghpvc/?username=IntelligentSammy&label=Views&color=blue&style=plastic" alt="xditya" /> </p>![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/IntelligentSammy/)
 
 
 
