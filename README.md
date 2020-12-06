@@ -1,11 +1,7 @@
-### Hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-[![telegram badge](https://img.shields.io/badge/xditya-30302f?style=flat&logo=telegram)](https://t.me/xditya)<p align="left"> <img src="https://komarev.com/ghpvc/?username=xditya&label=Views&color=blue&style=plastic" alt="xditya" /> </p>![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/xditya/)
+### Hello I Am 👇 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+[![telegram badge](https://img.shields.io/badge/intelligentsammy-30302f?style=flat&logo=telegram)](https://t.me/MiDarkWeb)<p align="left"> <img src="https://komarev.com/ghpvc/?username=IntelligentSammy&label=Views&color=blue&style=plastic" alt="xditya" /> </p>![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/IntelligentSammy/)
 
 
-
-
-
-# Hello!, I'm <a href="https://t.me/miDarkWeb">Sammy</a>.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ![Header](https://telegra.ph/file/e6b435315d11f2916223b.jpg)
 
