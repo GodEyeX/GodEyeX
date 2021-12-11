@@ -1,7 +1,6 @@
 
 
 
-![Header](https://telegra.ph/file/e6b435315d11f2916223b.jpg)
 
 ```
 About Me = [
