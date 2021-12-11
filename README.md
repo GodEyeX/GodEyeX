@@ -11,8 +11,8 @@ About Me = [
 ```
 
 <h3 align="center"><b>My Github Stats :</b></h3><br>
-<p align="center"><a href="https://github.com/IntelligentSammy"><img src="https://github-readme-stats.vercel.app/api?username=IntelligentSammy&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/IntelligentSammy"><img src="ht
+<p align="center"><a href="https://github.com/BrayDen-XD"><img src="https://github-readme-stats.vercel.app/api?username=BrayDen-XD&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/BrayDen-XD"><img src="ht
 
 
 
