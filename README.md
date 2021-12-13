@@ -5,7 +5,7 @@
 ```
 About Me = [
     "I'm student with nub dev labels",
-   "python Java Pyrogram" ]
+   "Python Telethon Pyrogram" ]
 ```
 
 
