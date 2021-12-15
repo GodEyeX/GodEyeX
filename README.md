@@ -1,4 +1,4 @@
-![logo](https://telegra.ph/file/f62de31e604564e1a95cd.mp4)
+![logo](https://telegra.ph/file/f62de31
 
 
 
